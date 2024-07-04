@@ -1,2 +1,2 @@
-# intelliwork-ai.github.io
+# intelliwork.github.io
 IntelliWork
